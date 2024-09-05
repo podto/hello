@@ -1,6 +1,3 @@
-#Hello
+# pkg
 
-this is a test
-```
-echo "Hello" > readme.md
-```
+golang some package
